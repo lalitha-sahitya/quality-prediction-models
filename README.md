@@ -1,1 +1,1 @@
-# Mango_Classification
+# wine quality classification
